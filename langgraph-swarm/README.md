@@ -1,6 +1,6 @@
-# LangGraph Specialist Swarm 🤖
+# LangGraph Specialist Swarm 
 
-## 📌 Project Overview
+##  Project Overview
 This project implements a **Multi-Agent System** using LangGraph, designed to automate content creation. [cite_start]It solves the limitation of a single LLM by using a "Specialist Swarm" architecture.
 
 The system consists of three specialized agents coordinated by a Supervisor:
