@@ -8,7 +8,7 @@ The system consists of three specialized agents coordinated by a Supervisor:
 * **Writer:** Drafts narrative content based on research.
 * **QA Engineer:** Reviews the final draft for quality.
 
-## 🏗️ Architecture Design
+##  Architecture Design
 [cite_start]The system uses a **State Machine** (Cyclic Graph) where a **Supervisor Node** acts as the router, directing the flow based on the current state (Memory)[cite: 79, 172].
 
 ### Architecture Graph
